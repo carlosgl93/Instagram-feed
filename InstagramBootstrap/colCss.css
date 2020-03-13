@@ -1,0 +1,32 @@
+.restoButtons {
+    margin-top: 15px;
+    position: relative;
+}
+
+.restoButtons ul li {
+    display: inline-block;
+
+}
+
+.centrar {
+    text-align: center;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#newPost {
+    border: 1px solid black;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+
+
+.card img {
+    max-height: 60vh;
+    margin: 5vh 0;
+}
